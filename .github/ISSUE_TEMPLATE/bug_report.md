@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug to us so we can sort it out!
 title: ''
-labels: ''
+labels: Pending
 assignees: ''
 
 ---
